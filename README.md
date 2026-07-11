@@ -204,6 +204,7 @@ Sales-Profitability-Optimization/
 
 # 📷 Dashboard Preview
 
+https://github.com/sahilchavan45/Sales_Profitability_Optimization/blob/main/SPO_Dashboard.pbix
 ---
 
 # ⭐ Project Outcome
