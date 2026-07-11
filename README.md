@@ -203,7 +203,7 @@ Sales-Profitability-Optimization/
 ---
 
 # 📷 Dashboard Preview
- Templete 1 : ![Dashboard Preview](https://github.com/sahilchavan45/Ola-Project-SQL-Power-BI/blob/main/Snapshot%20of%20The%20Dashboard%201.png)
+ Templete 1 : ![Dashboard Preview](https://github.com/sahilchavan45/Sales_Profitability_Optimization/blob/main/SPO_Snapshot.png)
 
 ---
 
